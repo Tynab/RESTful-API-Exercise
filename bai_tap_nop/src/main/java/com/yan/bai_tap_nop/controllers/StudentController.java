@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import com.yan.bai_tap_nop.models.*;
 
 @RestController
-@RequestMapping("student")
+@RequestMapping("/student")
 public class StudentController {
     //#region Fields
     private List<Student> students = new ArrayList<>();
