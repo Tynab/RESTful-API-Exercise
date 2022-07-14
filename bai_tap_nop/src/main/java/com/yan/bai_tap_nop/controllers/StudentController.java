@@ -21,12 +21,12 @@ public class StudentController {
     //#endregion
 
     //#region Methods
-    @GetMapping("")
+    @GetMapping("/")
     public List<Student> getAllStudents() {
         return students;
     }
 
-    @GetMapping("add")
+    @GetMapping("/add")
     public List<Student> addRequestParam(@RequestParam("name") String name, @RequestParam("age") int age) {
         Student student = new Student();
         student.setName(name);
@@ -35,7 +35,7 @@ public class StudentController {
         return students;
     }
 
-    @GetMapping("add/{name}/{age}")
+    @GetMapping("/add/{name}/{age}")
     public List<Student> addPathVariable(@PathVariable("name") String name, @PathVariable("age") int age) {
         Student student = new Student();
         student.setName(name);
