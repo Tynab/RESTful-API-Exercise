@@ -9,5 +9,5 @@ Xây dựng Student Controller với các yêu cầu sau:
 
 ## HÌNH ẢNH DEMO
 <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5622AQHe83SLUTEAzA/feedshare-shrink_2048_1536/0/1658997592584?e=1661990400&v=beta&t=AJHxXmKRvPENEiMmgGjT1GOT0pjDmz-f_OKp8CPEZEc"></img>
+<img src="https://raw.githubusercontent.com/Tynab/RESTful-API-Exercise/main/bai_tap_nop/temp/pic/0.jpg"></img>
 </p>
