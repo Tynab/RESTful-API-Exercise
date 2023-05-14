@@ -8,6 +8,6 @@ Xây dựng Student Controller với các yêu cầu sau:
 - Tất cả 3 phương thức trên đều trả về danh sách Student dạng JSON.
 
 ## HÌNH ẢNH DEMO
-<p align="center">
-<img src="https://raw.githubusercontent.com/Tynab/RESTful-API-Exercise/main/pic/0.jpg"></img>
+<p align='center'>
+<img src='pic/0.jpg'></img>
 </p>
